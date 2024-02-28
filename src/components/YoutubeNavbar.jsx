@@ -18,7 +18,7 @@ function YoutubeNavbar() {
         </div> 
         <form className='flex w-[550px] ml-[25vw]'action="">
           <input style ={{outline:"none"}} className="w-[500px] h-[40px] bg-[#121212] border-[2.5px] border-[#2C2C2C] text-white indent-5 rounded-l-full " type="text" placeholder='search!' />
-          <button className='flex items-center justify-center bg-[#222222] w-[40px] h-[40px]' type="submit">
+          <button className='flex items-center justify-center bg-[#222222] w-[40px] h-[40px] rounded-r-full ' type="submit">
             <SlMagnifier className='fill-white size-5'/>
           </button>
         </form>

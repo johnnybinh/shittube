@@ -10,7 +10,7 @@ function VideoViwer() {
       <Video videoLink={placeholder} title="placeholder"/>
       <Video videoLink={placeholder} title="placeholder"/>
       <Video videoLink={placeholder} title="placeholder"/>
-      <Video videoLink={placeholder} title="placeholder"/>
+      <Video videoLink={placeholder} title="placeholder"/>n
     </div>
   )
 }
